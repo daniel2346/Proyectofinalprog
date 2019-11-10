@@ -20,7 +20,7 @@
 
         <TextView
             android:id="@+id/txtnombre3"
-            android:layout_width="330dp"
+            android:layout_width="310dp"
             android:layout_height="match_parent"
             android:gravity="center"
             tools:text="nombre" />
